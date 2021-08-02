@@ -1,7 +1,12 @@
-# Proyecto_Restaurant
+# Proyecto Restaurant en 3 capas 
+- Capa Datos
+- Capa Entidad
+- Capa Negocio
+- Capa Presentación
+-
 ### Hi there 👋
 
-Proyecto de Sistema de Escritorio
+Proyecto de Sistema de Escritorio para un restaurant.
 
 - Visual Basic.net
 
