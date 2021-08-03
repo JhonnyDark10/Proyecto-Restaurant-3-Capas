@@ -1,7 +1,9 @@
 ### Hi there 👋
 ### Repositorio Flores Jhonny
 
-Proyecto Restaurant en 3 capas: Datos, Presentación, Negocio, Entidad.
+Proyecto Restaurant en 3 capas: 
+
+Datos, Presentación, Negocio, Entidad.
 
 Para su desarrollo se uso:
 
