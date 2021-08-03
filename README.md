@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### Repositorio Flores Jhonny
 
-Proyecto Restaurant en 3 capas
+Proyecto Restaurant en 3 capas: Datos, Presentación, Negocio
 
 Para su desarrollo se uso:
 
-- Visual Studio
+- Visual Studio: Visual Basic .net
 
 🌱 I’m currently learning new technologies.
 
